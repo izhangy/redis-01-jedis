@@ -15,6 +15,7 @@ public class JedisConfigTest {
         //2. jedis命令
         System.out.println(jedis.ping());
 
+
     }
 }
 
